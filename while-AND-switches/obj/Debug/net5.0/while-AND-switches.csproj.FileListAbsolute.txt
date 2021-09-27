@@ -1,0 +1,16 @@
+C:\repos\while-AND-switches\while-AND-switches\bin\Debug\net5.0\while-AND-switches.exe
+C:\repos\while-AND-switches\while-AND-switches\bin\Debug\net5.0\while-AND-switches.deps.json
+C:\repos\while-AND-switches\while-AND-switches\bin\Debug\net5.0\while-AND-switches.runtimeconfig.json
+C:\repos\while-AND-switches\while-AND-switches\bin\Debug\net5.0\while-AND-switches.runtimeconfig.dev.json
+C:\repos\while-AND-switches\while-AND-switches\bin\Debug\net5.0\while-AND-switches.dll
+C:\repos\while-AND-switches\while-AND-switches\bin\Debug\net5.0\ref\while-AND-switches.dll
+C:\repos\while-AND-switches\while-AND-switches\bin\Debug\net5.0\while-AND-switches.pdb
+C:\repos\while-AND-switches\while-AND-switches\obj\Debug\net5.0\while-AND-switches.csproj.AssemblyReference.cache
+C:\repos\while-AND-switches\while-AND-switches\obj\Debug\net5.0\while-AND-switches.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\while-AND-switches\while-AND-switches\obj\Debug\net5.0\while-AND-switches.AssemblyInfoInputs.cache
+C:\repos\while-AND-switches\while-AND-switches\obj\Debug\net5.0\while-AND-switches.AssemblyInfo.cs
+C:\repos\while-AND-switches\while-AND-switches\obj\Debug\net5.0\while-AND-switches.csproj.CoreCompileInputs.cache
+C:\repos\while-AND-switches\while-AND-switches\obj\Debug\net5.0\while-AND-switches.dll
+C:\repos\while-AND-switches\while-AND-switches\obj\Debug\net5.0\ref\while-AND-switches.dll
+C:\repos\while-AND-switches\while-AND-switches\obj\Debug\net5.0\while-AND-switches.pdb
+C:\repos\while-AND-switches\while-AND-switches\obj\Debug\net5.0\while-AND-switches.genruntimeconfig.cache
